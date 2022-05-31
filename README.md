@@ -10,3 +10,7 @@ Things I learned:
 
 Things I didn't learn:
 - Why "from PIL import *" didnt work. If you know why, please let me know
+
+
+EDIT:
+I just realized, I could probably get it within the size constraints of JPEG if I chose to make it a square, instead of a very long image. I don't know if I care enough to try doing that
